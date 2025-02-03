@@ -1,0 +1,48 @@
+
+.update-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+    flex-direction: column;
+}
+
+.update-page h2 {
+    margin-top: 1rem;
+}
+
+.update-post {
+    width: 20rem;
+    margin-top: 2rem;
+}
+
+.update-post form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.update-post form .group-form {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 15rem;
+}
+
+.update-post form .group-form input {
+    width: 10rem;
+}
+
+.update-post form .group-form .update-img {
+    cursor: pointer;
+    background-color: rgb(29, 29, 182);
+    color: white;
+    margin: 0.5rem 0;
+    padding: 0.2rem;
+    border-radius: 2px;
+}
+
+.update-post form .update-btn {
+    cursor: pointer;
+    margin-bottom: 0.7rem;
+}

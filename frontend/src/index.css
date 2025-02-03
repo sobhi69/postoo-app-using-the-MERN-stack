@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@media (max-width:767px) {
+  html {
+    font-size: 13px;
+  }
+}
+@media (max-width:977px) {
+  html {
+    font-size: 14px;
+  }
+}

@@ -1,0 +1,36 @@
+.posts {
+    margin: 2rem 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0 2rem;
+}
+
+.post {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid #5e5d5d8b;
+    margin: 0.5rem 0.7rem;
+    padding: 0.5rem;
+    width: 16rem;
+    word-wrap:break-word;
+}
+
+.posts .post img {
+    width: 100%;
+    margin-top: 0.4rem;
+}
+
+.post .actions {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.post .actions * {
+    cursor: pointer;
+    display: flex;
+    margin: 0 0.1rem;
+}
