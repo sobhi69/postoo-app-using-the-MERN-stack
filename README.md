@@ -8,7 +8,7 @@ react-router-dom and more..
 
 this app involves all the CRUD operations create read update and delete
 
-here is the 
+here is a screen shot of this basic app
 
 ![few](https://github.com/user-attachments/assets/62132088-0cd7-43ac-b3ef-411e640e5864)
 
